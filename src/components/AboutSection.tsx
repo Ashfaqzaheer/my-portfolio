@@ -5,7 +5,7 @@ import AnimatedText from "./AnimatedText";
 import ContactButton from "./ContactButton";
 
 const aboutText =
-  "With over 5 years of experience in web development, I specialize in building modern, performant applications powered by AI workflows. From concept to deployment, I deliver scalable cloud solutions that combine cutting-edge technology with clean architecture and exceptional user experiences.";
+  "I build modern websites, AI-powered applications, and SaaS products that help businesses launch faster and grow online. My focus is on creating responsive, high-performance digital experiences with clean design, smooth interactions, and scalable architecture. From business websites to AI-driven platforms, I enjoy turning ideas into products that are fast, user-friendly, and ready for production.";
 
 export default function AboutSection() {
   return (
